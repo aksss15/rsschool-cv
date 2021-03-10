@@ -1,7 +1,7 @@
 
 ## Akerke Otarbayeva
 
-![](cv-image.jpg | width=100)
+![](cv-image.jpg)
 
 ### Contact
 
